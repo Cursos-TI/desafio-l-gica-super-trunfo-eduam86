@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    
         
     //inserir informações da carta 1
     char estado1[20] = "A";
